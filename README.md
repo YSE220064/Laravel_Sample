@@ -3,7 +3,7 @@
 <h3>220064</h3>
 <h4>モハッマド　ワヒュ　ブディ　ムルヤ</h4>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/FA2GTaG.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/FA2GTaG.jpg" width="250" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
